@@ -11,6 +11,7 @@ Client:
 3. Get the MAC address to be converted into IP address.
 4. Send this MAC address to server.
 5. Server returns the IP address to client.
+
 Server:
 1. Start the program.
 2. Server maintains the table in which IP and corresponding MAC addresses are stored.
